@@ -2,15 +2,15 @@
 
 To jest repozytorium testowe, stworzone dla nauki Git.
 
-Ulubiona książka: "Wtorki z Morriem"
+    - Ulubiona książka: "Wtorki z Morriem"
 
-Ulubiony serial: "Gra o Tron"
+    - Ulubiony serial: "Gra o Tron"
 
-Ulubiony sport: kickboxing
+    - Ulubiony sport: kickboxing
 
-Ulubiony kolor: fioletowy
+    - Ulubiony kolor: fioletowy
 
-Ulubiona pora roku: wiosna
+    - Ulubiona pora roku: wiosna
 
 ### Zadanie 1 - kolory
 
